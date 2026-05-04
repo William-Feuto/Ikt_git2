@@ -1,0 +1,23 @@
+[Ll]ibrary/
+Temp/
+Logs/
+Build/
+.vs/
+Obj/
+UserSettings/
+*.csproj
+*.sln
+
+# ===============================
+# Task:
+# Add your own ignore rules below
+# Folders/files to be ignored:
+# Temp/
+# Logs/
+# Build/
+# .vs/
+# Obj/
+# UserSettings/
+# *.csproj
+# *.sln
+# ===============================
